@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2>
-    <a href="https://leonardoyz.github.io/Alura-Flix/">
+    <a href="https://leonardoyz.github.io/Alura-Flix/" target="_blank">
       Demo
     </a>
   </h2>
@@ -32,3 +32,7 @@
   <li>CSS Grid</li>
   <li>Javascript</li>
 </ul>
+
+#
+<h3>🔗 Link for project on Codepen</h3>
+<h4><a href="https://codepen.io/LeonardoYz/pen/JjyPKZX" target="_blank">AluraFlix</a></h4>

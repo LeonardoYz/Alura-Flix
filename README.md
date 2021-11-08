@@ -12,7 +12,6 @@
   </h2>
 </div>
 
-#
 <div> 
   <h3>🖥️ Desktop</h3>
   <img src="./readme-files/desktop-preview.gif">

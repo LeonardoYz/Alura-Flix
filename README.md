@@ -21,3 +21,14 @@
   <h3>📱 Mobile</h3>
   <img src="./readme-files/mobile-preview.gif">
 </div>
+
+#
+<h3>🔨 Built with</h3>
+
+<ul>
+  <li>Semantic HTML5 markup</li>
+  <li>CSS custom properties</li>
+  <li>Flexbox</li>
+  <li>CSS Grid</li>
+  <li>Javascript</li>
+</ul>
